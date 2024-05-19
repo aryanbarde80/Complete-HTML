@@ -1,0 +1,4 @@
+1. Save source of instagram in a file and check the render.
+2. Inspect the likes element ont the page and read the code to understand.
+3. Change the no. of likes on your instagram post.
+4. Validate the page we created in last project.
